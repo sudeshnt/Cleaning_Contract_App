@@ -1,0 +1,86 @@
+<?php
+
+return array(
+    'welcome' => 'Wellcome till Crowderia,',
+    'live' => 'Live',
+    
+    'contract_cleaning' => 'Contract Cleaning',
+    'get_in' => 'Get In',
+    'register' => 'Register',
+    'help' => 'Help',
+    
+    'name'=> 'Name',
+    'email' => 'Email Address',
+    'password' => 'Password',
+    'create_password' => 'Create Password',
+    'confirm_password' => 'Confirm Password',
+    'telephone' => 'Phone Number',
+    'zip'=>'Zip Code',
+    'address' => 'Address',
+    'number' => 'Number',
+    'complement' => 'Complement',
+    'neighborhood' => 'Neighborhood',
+    'city' => 'City',
+    'state' => 'State',
+    'create_an_account' => 'Create an Account',
+
+    'i_forgot_my_password' => 'I forgot my password',
+    'sign_in' => 'Sign In',
+    'keep_logged_in' => 'keep me logged in',
+    'or' => 'Or',
+
+    'doesnt_have_an_account' => 'does not have an account?',
+    'create_account' => 'Create Account',
+    'login_with' => 'Log in with',
+    'or_sign_up_with_your_data' => 'or sign up with your data:',
+    'register_your_account_parafuzo' => 'Register your account Parafuzo to access all services with ease',
+    'user_doesnt_exist' => "user doesn't exist , try again!",
+    'password_doesnot_match' => 'password is incorrect!',
+
+    'type_your_CEP' => 'type your zip',
+    'sample_email' => 'example@email.com',
+    'your_home' => 'Your Home',
+
+    'recommend_4_hours' => 'We Recommend 4 Hours',
+    'start_time' => 'Start Time',
+    'date' => 'Date',
+    'optional' => 'optional',
+    'frequency' => 'Frequency',
+    'every_week' => 'Every Week',
+    'every_two_weeks' => 'Every Two Weeks',
+    'only_once' => 'Only Once',
+
+    'discount_coupon' => 'discount coupon',
+    'type_your' => 'Type Your',
+
+    'card_number' => 'Card Number',
+    'payment' => 'Payment',
+    'expiration_date' => 'Expiration Date',
+    'code' => 'Code',
+    'default_card_number' => '1111 2222 3333 4444',
+    'month' => 'Month',
+    'year' => 'Year',
+    'finish_scheduling' => 'Finish Scheduling',
+
+    'cleaning_schedule' => 'CLEANING SCHEDULE',
+    'cleaning_shedule_message' => 'Schedule a day laborer now.Choose the time and the rest is on us.',
+    'accredited_professionals' => 'ACCREDITED PROFESSIONALS',
+    'satisfaction_guarantee' => 'SATISFACTION GUARANTEE',
+    'immediate_care' => 'IMMEDIATE CARE',
+
+    'windows'=>'Windows',
+    'refrigerator' => 'Refrigerator',
+    'interior_cabinet' => 'Interior Cabinets',
+    'carpets_and_upholstery' => 'Carpets and Upholstery',
+    'external_area' => 'External Area',
+    'heavy_housecleaning' => 'Heavy Housecleaning',
+    'ironing' => 'Ironing',
+    'bedrooms' => 'Bedrooms',
+    'bathrooms' => 'Bathrooms',
+
+    'start' => 'Start',
+    'your_account' => 'Your Account',
+    'logout' => 'Log Out',
+    'change_address' => 'Change Address',
+    
+);
